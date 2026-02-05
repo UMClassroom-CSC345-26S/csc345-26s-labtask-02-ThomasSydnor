@@ -19,7 +19,7 @@ This labtask has several parts:
   Randomly split the resultant data set into a training set of 80% and a testing set of 20%.
   Put the training set in a spreadsheet called `Training.csv` and the testing set in a spreadsheet
   called `Testing.csv`.
-  Use K-nearest neighbours classification in Python to train the model, then predict the make of
+  Use K-nearest neighbours classification in Python to train the model, then predict the `Style` of
   each car in the testing set.
   You must iterate over K to find the highest accuracy.
   Call the Python program `KNNClassifier.ipynb`/`KNNClassifier.py` (depending how you implement it).
