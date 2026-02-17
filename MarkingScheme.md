@@ -4,7 +4,7 @@
 <TABLE BORDER=0>
 <TR> <TD COLSPAN=2 WIDTH=50%> Student:
      <TD WIDTH=40%> Mark:
-     <TD WIDTH=10%> 3.5/4.0 features not normalized
+     <TD WIDTH=10%> 3/4.0 features not normalized, data issue
 <TR> <TD COLSPAN=4> &nbsp;
 <TR> <TH ALIGN=LEFT COLSPAN=4> Vehicle data - 2.0
 <TR> <TD WIDTH=40%> Anything submitted
